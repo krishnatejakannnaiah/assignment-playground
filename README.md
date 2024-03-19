@@ -1,4 +1,4 @@
 # assignment-playground
 
 
-Qnance assignment Round 1 submission
+Qnance Round 1 submission
